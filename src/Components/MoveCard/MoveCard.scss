@@ -1,0 +1,9 @@
+@import "../../Common/colors.scss";
+
+.moviCard {
+    transition: .3s;
+    &:hover {
+       transform: scale(1.04);
+       transition: .3s;
+    }
+}
